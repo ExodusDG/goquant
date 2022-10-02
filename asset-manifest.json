@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/goquant/static/css/main.659e8d65.css",
+    "main.js": "/goquant/static/js/main.3801e0ba.js",
+    "static/js/787.7882764c.chunk.js": "/goquant/static/js/787.7882764c.chunk.js",
+    "static/media/logotype.svg": "/goquant/static/media/logotype.7a195e5d426dcf6230a505eb6c1f9de2.svg",
+    "static/media/loginBG.svg": "/goquant/static/media/loginBG.a6369272cba15698035d.svg",
+    "index.html": "/goquant/index.html",
+    "static/media/line.svg": "/goquant/static/media/line.b8cb0e3da9d8917cf495.svg",
+    "main.659e8d65.css.map": "/goquant/static/css/main.659e8d65.css.map",
+    "main.3801e0ba.js.map": "/goquant/static/js/main.3801e0ba.js.map",
+    "787.7882764c.chunk.js.map": "/goquant/static/js/787.7882764c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659e8d65.css",
+    "static/js/main.3801e0ba.js"
+  ]
+}
